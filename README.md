@@ -18,6 +18,6 @@
 - **React** – Component-based UI development.
 - **React Router** – For seamless navigation.
 - **Tailwind CSS** – For styling.
-- **Redux Toolkit** (optional) – For state management.
+- **Redux Toolkit**  – For state management.
 
    
